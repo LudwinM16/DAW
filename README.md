@@ -8,7 +8,9 @@ Repositorio de Ludwin Martínez dedicado a la materia de DAW
 <a href="https://ludwinm16.github.io/DAW/guia1/ejemplo4/calculoareas.html">Ejercicio 4</a><br>
 <a href="https://ludwinm16.github.io/DAW/guia1/ejemplo5/diasmes.html">Ejercicio 5</a><br>
 <a href="https://ludwinm16.github.io/DAW/guia1/ejemplo6/cuotacasa.html">Ejercicio 6</a><br>
-<a href="https://ludwinm16.github.io/DAW/tree/main/guia1/Complementarios">Ejercicios complementarios</a>
+<a href="https://ludwinm16.github.io/DAW/guia1/Complementarios/ejercicio1/maquetado.html">Ejercicio complementario 1</a>
+<a href="https://ludwinm16.github.io/DAW/guia1/Complementarios/ejercicio1/conversor.html">Ejercicio complementario 2</a>
+<a href="https://ludwinm16.github.io/DAW/guia1/Complementarios/ejercicio1/conversorGrados.html">Ejercicio complementario 3</a>
 
 <h2>Investigación</h2>
 <p><b>Javascript no intrusivo</b></p>
