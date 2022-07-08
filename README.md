@@ -9,3 +9,11 @@ Repositorio de Ludwin Martínez dedicado a la materia de DAW
 <a href="https://github.com/LudwinM16/DAW/blob/main/guia1/ejemplo5/diasmes.html">Ejercicio 5</a><br>
 <a href="https://github.com/LudwinM16/DAW/blob/main/guia1/ejemplo6/cuotacasa.html">Ejercicio 6</a><br>
 <a href="https://github.com/LudwinM16/DAW/tree/main/guia1/Complementarios">Ejercicios complementarios</a>
+
+<h2>Investigación</h2>
+<p><b>Javascript no intrusivo</b></p>
+<p>El concepto es muy sencillo, consiste en separar la funcionalidad cliente de una página del contenido HTML. Así pues, el Javascript no intrusivo, es aquel que está totalmente separado de la estructura. Para ello el código Javascript en vez de estar mezclado con el código HTML, debe estar en un fichero .js aparte.</p>
+<p><b>Valores "Null" y "Undefined"</b></p>
+<p>Son valores extraños que se encuentran en la sintaxis de Javascript, ambos funcionan para indicar la ausencia de un valor.
+Lo que ocurre es que undefined es un valor que denota que no hay valor porque no se ha definido todavía, mientras que null se usa para indicar que no hay valor porque así lo hemos querido indicar expresamente.
+</p>
